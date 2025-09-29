@@ -86,7 +86,7 @@ int main() {
                 printf("ID: %d\n", id);
                 printf("Nombre: %s\n", nombre);
                 printf("Stock actual: %d\n", stock);
-                printf("Precio al público: $%.2f\n", precioPublico);
+                printf("Precio al publico: $%.2f\n", precioPublico);
                 printf("Precio al vendedor: $%.2f\n", precioVendedor);
                 printf("Unidades vendidas: %d\n", vendidos);
                 break;
