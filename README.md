@@ -1,3 +1,3 @@
 Javier Chavez
-Maikel Cachimoel
+Maikel Cachimuel
 Sebastian Tipantuña
